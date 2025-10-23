@@ -5,12 +5,15 @@ NAMA    : Andi Ramli Hidayat <br>
 NIM     : 312510385 <br>
 KELAS   : TI.25 C.5
 
-#Menentukan Bilangan terbesar yang di inputkan
+# Menentukan Bilangan terbesar yang di inputkan
 
 <ul>
-  <li>Flowchart</li>
+  <li><h3 style='font-weight:bold;'>Flowchart</h3></li>
   
-  <li>Program</li>
-  <li>Hasil Program</li>
-  <li>Penjelasan Kode</li>
+  <br>
+  <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <br>
+  <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
+  <br>
+  <li><h3 style='font-weight:bold;'>penjelasan Program</h3></li>
 </ul>
