@@ -9,7 +9,7 @@ KELAS   : TI.25 C.5
 
 <ul>
   <li><h3 style='font-weight:bold;'>Flowchart</h3></li>
-  <img src="https://github.com/aramli/Praktikum3/tree/main/IMG/9.png" width="200"/>
+  <img src="![Alt Text]https://github.com/aramli/Praktikum3/tree/main/IMG/9.png" width="200"/>
   <br>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
   <img src="https://github.com/aramli/Praktikum3/tree/main/IMG/8.png" width="200"/>
