@@ -12,12 +12,12 @@ KELAS   : TI.25 C.5
   <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/8.png" width="400" style="border: 2px solid black;"/>
   <br>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
-  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/9.png" width="500" style="border: 2px solid black;"/>
+  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/9.png" width="700" style="border: 2px solid black;"/>
   <br>
   <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
-  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/7.png" width="500" style="border: 2px solid black;"/>
+  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/7.png" width="700" style="border: 2px solid black;"/>
   <br>
-  <li><h3 style='font-weight:bold;'>penjelasan Program</h3></li>
+  <li><h3 style='font-weight:bold;'>Penjelasan Program</h3></li>
   <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/1.png" width="750" style="border: 2px solid black;"/>
   <p>1. Inisialisasi variabel max dengan nilai awal 0, tujuannya untuk menyimpan nilai terbesar yang nanti akan di inputkan.</p>
   <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/2.png" width="750" style="border: 2px solid black;"/>
