@@ -9,24 +9,24 @@ KELAS   : TI.25 C.5
 
 <ul>
   <li><h3 style='font-weight:bold;'>Flowchart</h3></li>
-  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/9.png" width="200"/>
+  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/8.png" width="400"/>
   <br>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
-  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/8.png" width="200"/>
+  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/9.png" width="400"/>
   <br>
   <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
-  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/7.png" width="200"/>
+  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/7.png" width="400"/>
   <br>
   <li><h3 style='font-weight:bold;'>penjelasan Program</h3></li>
-  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/1.png" width="150"/>
+  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/1.png" width="500"/>
   <p>1. Inisialisasi variabel max dengan nilai awal 0, tujuannya untuk menyimpan nilai terbesar yang nanti akan di inputkan.</p>
-  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/2.png" width="150"/>
+  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/2.png" width="500"/>
   <p>2. Memulai perulangan tak terbatas (while True) yang akan terus berjalan sampai pengguna memasukkan angka 0.</p>
-  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/3.png" width="150"/>
+  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/3.png" width="500"/>
   <p>3. "n" sebagai variabel akan di isi oleh inputan , nilai yang di in[ut akan di konversi ke type integer </p>
-  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/4.png" width="150"/>
+  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/4.png" width="500"/>
   <p>4. If merupakan sebuah pengondisian, dimana kondisi kode diatas adalah jika input adalah angka o maka perulangan di hentikan dengan "break"</p>
-  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/5.png" width="150"/>
+  <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/5.png" width="500"/>
   <p>5. Kode diatas merupaka sebuah pengondisian dengan kondisi jika nilai n lebih besar dari nilai max saat ini, maka max diperbarui dengan nilai n.
 </p>
   <img src="https://github.com/aramli/Praktikum3/raw/main/IMG/6.png" width="150"/>
